@@ -1,0 +1,5 @@
+problem,task,best_model,best_metric,metric_name
+Problem 1,Character prediction text sequence,Transformer,91.71952078928823,Validation Accuracy
+Problem 2,Tiny Shakespeare character prediction,Transformer,62.9092697237919,Validation Accuracy
+Problem 3,English-to-French translation,B1_H2_D128,0.04750751366216802,BLEU-4
+Problem 4,French-to-English translation,B2_H4_D256,0.050309922576352806,BLEU-4

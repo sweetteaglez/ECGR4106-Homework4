@@ -1,0 +1,73 @@
+blocks,heads,hidden_size,sequence_length,final_train_loss,final_val_loss,final_val_accuracy,training_time_sec,inference_time_sec,parameters,model_size_mb,perplexity,generated_text
+1,2,128,30,1.6783038205623626,1.5561987176895142,50.92430531246354,101.3969235420227,0.23978805541992188,218046,0.8317794799804688,4.740765960478228,"To better his we his himself, him. You not heard's think
+Ther heave follows cameful not For nevile:
+A must you mish people.'
+
+QUEEN ELIZABETH:
+Stantly
+A woo'd tweet of and him and it is for shall in exTuti"
+1,4,128,30,1.5650789986610412,1.4462612258911134,54.53859745628511,102.09637308120728,0.2404191493988037,218046,0.8317794799804688,4.2472054517255104,"To beseech thou me, at let all fear
+He's fit is shall deserved in't;
+Their of him, your gods sea beloves' ther, by this o' the which, than cry of they noble Menenius, it are intion of at enember,
+'Tis fer'"
+2,2,128,30,1.4744895469665527,1.3448786632537841,57.508459602273675,150.75083947181702,0.3330271244049072,416318,1.5881271362304688,3.83772085578665,"To becond CORIOLANUS:
+Ay, leave, name since for my guard, home langer.
+
+MENENIUS:
+He had lear.
+
+BRUTUS:
+Farewell, not me:
+Look than like any touch
+To be child be you
+I'll be
+lack heavens in mirst, our laid"
+2,4,128,30,1.4392627653598786,1.3107076637268067,58.37158907169409,149.75784993171692,0.33054184913635254,416318,1.5881271362304688,3.708797365134086,"To befer:
+
+VOLUMNIA:
+You are indeed for this soud,
+You shall be blood which I have been received,
+And, that's blood.
+
+MENENIUS:
+Whom call him, who, she will not so no lay capt he your can power
+A man, I am"
+4,2,128,30,1.4136197056770325,1.2989805654525757,58.742228000866795,248.3505232334137,0.49534058570861816,812862,3.1008224487304688,3.6655579658361903,"To beCINIUS:
+AEdiles, &CINIUS:
+But?
+
+MENENIUS:
+I have been. They should, see have my business?
+
+AEdile:
+We know by us.
+
+CORIOLANUS:
+What you have shonour?
+
+BRUTUS:
+My lord, I draw here, you are the report,"
+4,4,128,30,1.3867332721710206,1.2638312362670898,59.66003233818406,247.6832835674286,0.47794294357299805,812862,3.1008224487304688,3.5389541168218597,"To beCKNEENIUS:
+MENENIUS:
+For your deed,
+And for alames in town report for
+the Times charge are in that spirity
+More mattering cries! worth
+That you have greast breathe: he'lll pluck you.
+
+BRUTUS:
+I would "
+2,2,64,30,1.604028815317154,1.4790437696456908,53.86924705372473,150.6098268032074,0.31871461868286133,109886,0.41918182373046875,4.388747020676946,"To becond Citizen:
+Trubt my sneplease your sonour,
+Ere come rough you cannot us.
+
+CORIOLANUS:
+You mught I vali hod, not where we shold that forebut
+To' the can to over
+
+HAM:
+And my made slows be to my to b"
+2,4,256,30,1.3172417922496795,1.14932194480896,62.9092697237919,151.7685980796814,0.3221254348754883,1619006,6.176017761230469,3.156052206432542,"To berUFirst curse my gafest consider signs themperation
+Which selves with nakes for speak, your viss
+How not cannot made, before ut the poor consul's unfearful brokmed gibe wating
+Then voices have not, bu"

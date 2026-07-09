@@ -1,0 +1,5 @@
+model,direction,sequence_accuracy,bleu_4,parameters
+Baseline GRU,English-to-French,0.0,0.0142,398566
+Attention GRU,English-to-French,0.0,0.0502,578357
+Baseline GRU,French-to-English,0.0,0.034,384634
+Attention GRU,French-to-English,0.0,0.0552,550601

@@ -1,0 +1,20 @@
+model,sequence_length,blocks,heads,hidden_size,final_train_loss,final_val_loss,final_val_accuracy,training_time_sec,parameters,model_size_mb,perplexity,generated_text
+Transformer,20,2,2,128,1.5254935122966766,1.408270478439331,55.78157815781578,188.58584642410278,415038,1.5832443237304688,4.088877483360849,"To behold:
+Is thy viction.
+
+MENENIUS:
+I ungreat fair be destring cloyule, their adfalse.
+
+BRUTUS:
+Osecond Murderer:
+This this gruch other's world my prosperies, as freel. Liver thus of a pour proceed him w"
+Transformer,30,2,2,128,1.4735632083415986,1.3400282485961914,57.627727492457204,188.32893323898315,416318,1.5881271362304688,3.8191513895079368,"To be OUCESTER:
+Do to thy scatch dead betide them gods, should reports
+Most engine Edward's one blemen.
+
+LADY ANNE:
+And given the letters,
+Make till be rough the interise.
+
+First Citizen:
+Pray you husband "

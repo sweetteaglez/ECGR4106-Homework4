@@ -1,0 +1,2 @@
+model,sequence_length,blocks,heads,hidden_size,final_train_loss,final_val_loss,final_val_accuracy,training_time_sec,parameters,model_size_mb,perplexity
+Transformer,50,2,2,128,1.3884940677165984,1.238355863571167,60.39854963740935,198.4700186252594,418878,1.5978927612304688,3.4499366328031993
