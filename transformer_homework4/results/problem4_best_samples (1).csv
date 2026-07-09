@@ -1,0 +1,6 @@
+source,target,prediction,exact_match,bleu_score
+elle a gagné un match de tennis,she won a tennis match,she is a new a new,False,0.048549177170732344
+le marché biologique ouvre à l'aube le samedi,the organic market opens at dawn on saturdays,the coffee is melting to the park,False,0.028634401465295497
+nous regardons un film ensemble,we watch a movie together,we are going to the park,False,0.040824829046386304
+le pain de cette boulangerie est toujours croustillant,the bread at this bakery is always crunchy,the is is melting to the park,False,0.034052233956373766
+nous dansons au mariage,we dance at the wedding,the birds is melting,False,0.06257106818159155
